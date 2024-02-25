@@ -26,10 +26,3 @@ To use the model for inference, load the trained model and preprocess the input 
 
 
 
-
-
-
-Message ChatGPT…
-
-ChatGPT can make mistakes. Consider checking important inf
-
